@@ -1,1 +1,4 @@
 I am enrolled in PPEP 171 in 2024. Lekker man
+I am completing Activity 4. 
+Type in desmos
+(x^2 + y^2 + a x)^2 = a^2(x^2 + y^2)
